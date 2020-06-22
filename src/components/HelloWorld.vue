@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <dir class="bg-blue-500"> What are your doing</dir>
+    <dir class="bg-blue-500">What are your doing</dir>
   </div>
 </template>
 
